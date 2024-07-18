@@ -100,5 +100,6 @@ main();
 
 module.exports = {
     normalizeURL,
-    getUrlFromHTML
+    getUrlFromHTML,
+    crawl
 };
